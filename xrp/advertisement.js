@@ -1,0 +1,1 @@
+setTimeout(function(){ window.location = "give.php?ajout=2"; },120000); // Nb de millisecondes de délai

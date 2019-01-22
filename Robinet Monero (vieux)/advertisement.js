@@ -1,0 +1,1 @@
+setTimeout(function(){ window.location = "give.php?ajoutXMR=2"; },120000); // Nb de millisecondes de délai
